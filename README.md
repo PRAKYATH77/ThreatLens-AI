@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛡️ ThreatLens-AI
 
 **Enterprise-Grade Real-Time Cybersecurity Threat Detection & Response Platform**
@@ -813,7 +813,3 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 
 **Last Updated**: December 8, 2025  
 **Version**: 1.0.0
-=======
-# ThreatLens-AI
-Enterprise-Grade Real-Time Cybersecurity Threat Detection &amp; Response Platform with AI-powered Analysis
->>>>>>> 3f735b5060fd383bba5c3955f11d283c9ee097c2
